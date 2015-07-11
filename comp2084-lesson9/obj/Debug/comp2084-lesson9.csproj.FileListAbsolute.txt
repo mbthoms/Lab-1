@@ -1,0 +1,20 @@
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.dll.config
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.dll
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.pdb
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.dll
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.SqlServer.dll
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.xml
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.SqlServer.xml
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson9.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson5.dll
+\\psf\Home\Desktop\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson5.pdb
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.dll.config
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.dll
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\comp2084-lesson5.pdb
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.dll
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.SqlServer.dll
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.xml
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\bin\EntityFramework.SqlServer.xml
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson5.dll
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson5.pdb
+U:\College Work\3rd Term\Server Side Scripting\week_9\comp2084-lesson9-master\comp2084-lesson9-master\comp2084-lesson9\obj\Debug\comp2084-lesson9.csprojResolveAssemblyReference.cache
