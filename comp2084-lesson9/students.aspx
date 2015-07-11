@@ -9,7 +9,7 @@
 
     <asp:GridView runat="server" ID="grdStudents" AutoGenerateColumns="false" AllowPaging="true" PageSize="3" OnPageIndexChanging="grdStudents_PageIndexChanging" OnRowDeleting="grdStudents_RowDeleting" DataKeyNames="StudentID" CssClass="table table-striped table-hover" >
         <Columns>
-            <asp:BoundField DataField="StudentID" HeaderText="ID" />
+            <asp:BoundField DataField="StudentID" HeaderText="ID" Visible="false"/>
             <asp:BoundField DataField="LastName" HeaderText="Last Name" />
             <asp:BoundField DataField="FirstMidName" HeaderText="First Name" />
             <asp:BoundField DataField="EnrollmentDate" HeaderText="Enrollment Date" />
